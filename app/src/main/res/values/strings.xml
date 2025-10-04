@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Probna_kart12</string>
+    <array name="spinner_content">
+        <item>Silnia</item>
+        <item>Suma cyfr</item>
+        <item>Liczba pierwsza</item>
+    </array>
+</resources>
